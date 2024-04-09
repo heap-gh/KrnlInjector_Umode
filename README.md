@@ -25,7 +25,7 @@ This Manual Mapper Usermode Interface provides a user-friendly graphical interfa
 
 ## Dependencies
 
-- `kernel_injector` driver: [Link to driver repository or installation instructions]
+- `kernel_injector` driver: [https://github.com/heap-gh/KrnlInjector]
 
 ## Installation
 
