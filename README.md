@@ -7,7 +7,7 @@ This Manual Mapper Usermode Interface provides a user-friendly graphical interfa
 ## Features
 
 - Select processes either by name or ID.
-- Seamless communication with the `kernel_injector` driver.
+- Communication with the `kernel_injector` driver.
 - Handle hijacking
 - Interface built with ImGui.
 
