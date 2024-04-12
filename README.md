@@ -21,7 +21,7 @@ This Manual Mapper Usermode Interface provides a user-friendly graphical interfa
 1. Launch the Manual Mapper Usermode Interface.
 2. Choose a process to inject by either entering its name or ID.
 3. Select the desired injection method.
-4. Optionally, enable handle hijacking if required.
+4. Optionally, enable handle hijacking if required (not finished yet)
 
 ## Dependencies
 
