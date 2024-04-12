@@ -14,7 +14,7 @@ This Manual Mapper Usermode Interface provides a user-friendly graphical interfa
 ## Requirements
 
 - `kernel_injector` driver must be installed and operational.
-- Compatible operating system (Windows).
+- Compatible operating system (Windows 11).
 
 ## Usage
 
